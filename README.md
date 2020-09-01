@@ -1,0 +1,1 @@
+This finds prime numbers. It may not be the most efficient way to do so, but it's my way.
